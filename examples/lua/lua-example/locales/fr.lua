@@ -1,3 +1,3 @@
 i18n.importData("fr",{
-    welcome_message="Welcome ~g~" ..GetPlayerName().. " this is a test from i18n"
+    welcome_message="Bienvenue ~g~" ..GetPlayerName().. "~w~, ceci est un test de i18n"
 })
