@@ -16,10 +16,10 @@ You can have some locales files' examples in the **examples/lua** in order to kn
 
 ```LUA
 client_scripts {
-  'client.lua'
   'lib/i18n.lua',
   'locales/fr.lua',
-  'locales/en.lua'
+  'locales/en.lua',
+  'client.lua',
 }
 ```
 
