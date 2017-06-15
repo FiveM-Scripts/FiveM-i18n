@@ -3,7 +3,7 @@
 
 
 
-FiveM0i18n is a translation library that can be used to help developers to support translations for the FiveM Lua scripts.  
+FiveM-i18n is a translation library that can be used to help developers to support translations for the FiveM Lua scripts.  
 
 You can find the docs [here](docs/how_to_use.md).
 
