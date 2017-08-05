@@ -1,7 +1,4 @@
 # FiveM-i18n v1.0.0
-<a href="https://discord.gg/eNJraMf"><img alt="Discord Status" src="https://discordapp.com/api/guilds/285462938691567627/widget.png"></a>
-
-
 
 FiveM-i18n is a translation library that can be used to help developers to support translations for the FiveM Lua scripts.  
 
