@@ -9,10 +9,10 @@ We recommended to create 2 folders `lib` and `locales` in your script resource f
     resources/myscript/locales
 
 ## 2. Copy i18n.lua
-Then copy ***i18n.lua*** to the "lib" folder
+Then copy ***i18n.lua*** to `resources/myscript/lib`
 
 ## 3. Create your locales files
-Go to the "locales" folder.    
+Go to `resources/myscript/locales`.    
 Then create your lang file (for example : en.lua, fr.lua, nl.lua, ..)    
 
 You have to use the `i18n.importData(CodeLang, TranslationTable)` function
