@@ -1,13 +1,10 @@
-# FiveM-i18n v1.0.0
+# FiveM-i18n v1.0
 
-FiveM-i18n is a translation library that can be used to help developers to support translations for the FiveM Lua scripts.  
+[![Version](https://img.shields.io/badge/Version-v1.0-brightgreen.svg)]()
+[![license](https://img.shields.io/badge/License-MIT-blue.svg)](license.md)
 
+FiveM-i18n is a translation library that can be used to help developers to support translations for the FiveM Lua scripts.    
 You can find the docs [here](docs/how_to_use.md).
-
- **Note:**   
-This project brings developers together to work on a script that can be used for different types of servers.  
-Have some respect for the people that contribute to this project and don't just copy/paste our time and work that we put in this project, instead [contribute](CONTRIBUTING.MD).
-
 
 ## Contribute
 if you are a developer and  would like to contribute any help is welcome!   
