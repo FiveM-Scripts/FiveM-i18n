@@ -1,4 +1,4 @@
-Translator.setLang("en")
+i18n.setLang("en")
 AddEventHandler("playerSpawned", function(spawn)
 
     Citizen.CreateThread(function()
